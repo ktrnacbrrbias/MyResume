@@ -1,0 +1,32 @@
+h2 {
+  color: green;
+  background-color: yellowgreen;
+  border-style: inset;
+}
+h1 {
+  color: tomato;
+}
+li {
+  margin-left: px 50%
+}
+p {
+  color: saddlebrown;
+}
+li {
+  font-weight: bold;
+color: orangered;
+}
+#one {
+  font-style: oblique;
+}
+#two {
+  font-style: oblique;
+}
+#three {
+  font-style: oblique;
+}
+li {
+  font-family: Georgia;
+}
+h1 {
+  font-family: Georgia;
